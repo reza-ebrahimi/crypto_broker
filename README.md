@@ -1,5 +1,13 @@
 # Crypto Broker
 
+## Install
+
+```bash
+$ git clone https://github.com/reza-ebrahimi/crypto_broker.git
+$ cd crypto_broker
+$ npm install --save
+```
+
 ## Run
 
 ```bash
